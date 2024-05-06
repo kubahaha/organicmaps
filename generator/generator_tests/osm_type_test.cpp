@@ -2282,6 +2282,7 @@ UNIT_CLASS_TEST(TestWithClassificator, OsmType_SimpleTypesSmoke)
     {"barrier", "swing_gate"},
     {"barrier", "toll_booth"},
     {"barrier", "wall"},
+    {"boundary", "marker"},
     {"boundary", "national_park"},
     {"boundary", "protected_area"},
     {"building", "has_parts"},
